@@ -1,0 +1,22 @@
+{
+  "name": "degfySafeHttp",
+  "description": "transimit date by safe way",
+  "main": "degfySafeHttp.js",
+  "moduleType": [],
+  "keywords": [
+    "Safe",
+    "Http"
+  ],
+  "authors": [
+    "Degfy King"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "dependencies": {    
+  },
+  "devDependencies": {
+    "angular": "~1.4.7"
+    "angular-mocks": "~1.4.7"
+  }
+}

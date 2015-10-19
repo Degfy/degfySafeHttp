@@ -1,0 +1,427 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"preg",
+				"preg_grep"
+			],
+			[
+				"hear",
+				"header	<header>"
+			],
+			[
+				"array_ke",
+				"array_key_exists"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"st",
+				"static"
+			],
+			[
+				"sc",
+				"scripts"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "bower.json",
+			"settings":
+			{
+				"buffer_size": 372,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 196.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/worksapce/degfySafeHttp"
+	],
+	"file_history":
+	[
+		"/F/workspace/DapSchool/frontend/bower.json",
+		"/D/worksapce/back-meihao/doc/api.md",
+		"/D/worksapce/degfyStart/src/api/Functions.php",
+		"/D/worksapce/degfyStart/src/api/Library/Degfy/Cache.class.php",
+		"/D/worksapce/degfyStart/src/api/Library/Degfy/DegfyStart.class.php",
+		"/D/worksapce/degfyStart/src/api/Conf/base.php",
+		"/D/worksapce/degfyStart/src/api/DegfyStart.php",
+		"/D/worksapce/degfyStart/src/api/Library/Degfy/Cache/Driver/Apachenote.class.php",
+		"/D/worksapce/degfyStart/src/api/Library/Degfy/Cache/Driver/Apc.class.php",
+		"/D/worksapce/degfyStart/src/api/Library/Degfy/Cache/Driver/Db.class.php",
+		"/D/worksapce/degfyStart/src/api/Library/Degfy/Cache/Driver/Eaccelerator.class.php",
+		"/D/worksapce/degfyStart/src/api/Library/Degfy/Cache/Driver/File.class.php",
+		"/D/worksapce/degfyStart/src/api/Library/Degfy/Cache/Driver/Memcache.class.php",
+		"/D/worksapce/degfyStart/src/api/Library/Degfy/Cache/Driver/Memcached.class.php",
+		"/D/worksapce/degfyStart/src/api/Library/Degfy/Cache/Driver/Memcachesae.class.php",
+		"/D/worksapce/degfyStart/src/api/Library/Degfy/Cache/Driver/Redis.class.php",
+		"/D/worksapce/degfyStart/src/api/Library/Degfy/Cache/Driver/Shmop.class.php",
+		"/D/worksapce/degfyStart/src/api/Library/Degfy/Cache/Driver/Sqlite.class.php",
+		"/D/worksapce/degfyStart/src/api/Library/Degfy/Cache/Driver/Wincache.class.php",
+		"/D/worksapce/degfyStart/src/api/Library/Degfy/Cache/Driver/Xcache.class.php",
+		"/D/worksapce/degfyStart/src/index.php",
+		"/D/worksapce/degfyStart/src/api/Library/Degfy/Resource.class.php",
+		"/D/worksapce/degfyStart/src/api/Library/Degfy/Db.class.php",
+		"/D/worksapce/back-meihao/index.php",
+		"/D/worksapce/degfyStart/src/app/index.html",
+		"/D/worksapce/degfyStart/src/api/Conf/db.php",
+		"/D/worksapce/degfyStart/src/api/Conf/router.php",
+		"/D/worksapce/degfyStart/src/api/degfyStart.class.php",
+		"/D/worksapce/degfyStart/src/api/degfyStart.php",
+		"/D/worksapce/degfyStart/src/api/config/db.php",
+		"/D/worksapce/degfyStart/src/api/config/router.php",
+		"/D/worksapce/degfyStart/src/api/resource.php",
+		"/D/thinkphp/index.php",
+		"/D/PythonLearn/my/hello.py",
+		"/F/workspace/thinksns/config/config.inc.php",
+		"/D/mypython/first.py",
+		"/E/Program Files/Sublime Text/Data/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/d/mypython/first.py",
+		"/D/DapSchool/first.py",
+		"/D/DapSchool/src/app/mymodule/test.jade",
+		"/D/DapSchool/package.json",
+		"/D/DapSchool/bower.json",
+		"/D/DapSchool/src/index.html",
+		"/D/DapSchool/src/app/main/main.html",
+		"/D/DapSchool/dist/index.html",
+		"/D/DapSchool/.gitignore",
+		"/D/test/bower.json",
+		"/D/test/package.json",
+		"/D/test/.editorconfig",
+		"/D/test/.bowerrc",
+		"/D/test/protractor.conf.js",
+		"/D/test/gulp/inject.js",
+		"/D/test/src/index.html",
+		"/D/test/gulpfile.js",
+		"/D/test/gulp/server.js",
+		"/D/test/gulp/conf.js",
+		"/D/test/karma.conf.js",
+		"/D/worksapce/student/app/styles/student/datumpPerfect.css",
+		"/D/worksapce/student/app/tpl/datumpPerfect.html",
+		"/D/worksapce/student/app/styles/sass/student/datumpPerfect.scss",
+		"/D/worksapce/student/app/scripts/student/service/learnBoy.js",
+		"/D/sphinx-2.2.9-release-win64/api/test.php",
+		"/D/worksapce/student/app/index.html",
+		"/D/worksapce/student/Gruntfile.js",
+		"/D/worksapce/student/app/scripts/student/student.js",
+		"/D/worksapce/student/node_modules/grunt-contrib-connect/node_modules/connect/node_modules/serve-static/node_modules/send/index.js",
+		"/D/worksapce/student/bower.json",
+		"/D/worksapce/student/node_modules/grunt-express/node_modules/connect/node_modules/serve-static/node_modules/send/index.js",
+		"/D/worksapce/student/node_modules/grunt-express/package.json",
+		"/D/worksapce/student/app/scripts/student/controller/studybox.js",
+		"/D/worksapce/student/bower_components/iscroll/.bower.json",
+		"/D/worksapce/student/README.md",
+		"/D/worksapce/front2/Gruntfile.js",
+		"/D/worksapce/front2/app/tutor.html",
+		"/D/worksapce/front2/app/scripts/tutor/app.js",
+		"/D/worksapce/front2/package.json",
+		"/D/worksapce/front2/app/scripts/tutor/tpl.js",
+		"/D/worksapce/front-tpl/doc/地址规划",
+		"/F/test.html",
+		"/D/worksapce/front-tpl/app/student.html",
+		"/D/worksapce/front-tpl/Gruntfile.js",
+		"/D/worksapce/front-tpl/app/scripts/student/app.js",
+		"/D/worksapce/front-tpl/app/tpl/student/course_list.html",
+		"/E/Program Files/Sublime Text/Data/Packages/ConvertToUTF8/ConvertToUTF8.sublime-settings"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"D:\\worksapce\\degfyStart\\src\\api\\Library\\Degfy\\Cache\\Driver",
+			"D:\\worksapce\\student\\node_modules\\grunt-contrib-connect",
+			"D:\\worksapce\\student\\node_modules\\grunt-express"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\\s+$",
+			"\\|$",
+			"API_DIR",
+			"Degfy_PATH",
+			"Think",
+			"degfyStart",
+			"bower",
+			"usemin",
+			"bower",
+			"sendfile",
+			"compass:dist"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"DEGFY_PATH",
+			"Degfy"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "bower.json",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 372,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								184,
+								184
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "degfySafeHttp.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"test.jade",
+				"src\\app\\mymodule\\test.jade"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "ang",
+		"selected_items":
+		[
+			[
+				"ang",
+				"D:\\worksapce\\proj\\angularjs1.sublime-workspace"
+			],
+			[
+				"stu",
+				"D:\\worksapce\\proj\\student.sublime-project"
+			],
+			[
+				"",
+				"D:\\worksapce\\proj\\student.sublime-project"
+			],
+			[
+				"thi",
+				"D:\\worksapce\\proj\\thinkphp.sublime-project"
+			],
+			[
+				"t",
+				"D:\\worksapce\\proj\\thinkphp.sublime-project"
+			],
+			[
+				"thin",
+				"D:\\worksapce\\proj\\thinkphp.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 231.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
